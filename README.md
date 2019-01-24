@@ -16,7 +16,7 @@
 
 ```Invoke-Apex``` is a PowerShell-based toolkit consisting of a collection of techniques and tradecraft for use in red team, post-exploitation, adversary simulation, or other offensive security tasks. &nbsp;It can also be useful in identifying lapses in "malicious" activity detection processes for defenders as well.
 
-Each technique or method in the toolkit is mapped back to a [Mitre ATT&CK](https://attack.mitre.org/) Technique ID where applicable, and the techniques and modules which they can be found in, can be viewed with the ```Invoke-MitreReference -Help``` command. See the section "The Mitre ATT&CK Reference Component" for more info!
+Each technique or method in the toolkit is mapped back to a [Mitre ATT&CK](https://attack.mitre.org/) Technique ID where applicable, and the techniques and modules which they can be found in, can be viewed with the ```Invoke-MitreReference -Help``` command. See the section "[The Mitre ATT&CK Reference Component](https://github.com/securemode/Invoke-Apex#the-mitre-attck-reference-component)" for more info!
 
 ```Invoke-Apex``` is a work-in-progress, so updates to modules, and additional capability can be expected somewhat regularly as time allows.
 
